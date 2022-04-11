@@ -1,4 +1,4 @@
-module github.com/mt-sre/testing
+module github.com/ajpantuso/container
 
 go 1.17
 
