@@ -1,4 +1,4 @@
-package testing
+package container
 
 type RegistryOption interface {
 	ConfigureRegistry(*RegistryConfig)
